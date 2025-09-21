@@ -11,4 +11,4 @@ CFURL = "https://email-to-telegram.maronponst.workers.dev/"
 [[ d1_databases ]]
 binding = "DB"
 database_name = "emaildb"
-database_id = ""
+database_id = "aecf3bf9-ad28-4338-a7d7-66ecd57de976"
